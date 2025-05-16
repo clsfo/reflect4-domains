@@ -279,6 +279,7 @@ www-proxy.migastep.com
 www-proxy.retportal.com
 www-proxy.sayed.page
 www-proxy.sodemc.com
+www-proxy.valentiin.com
 www-proxy2.blueboy.cf
 www-rf4.forestberrypi.com
 www-server.freewebsproxy.com
